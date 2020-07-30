@@ -4,7 +4,7 @@ This is the main heading Starter Web Repo
 
 ## Introduction
 
-This is the Introduction section
+This is the Introduction section...adding more text in this section.
 
 ## Purpose
 
