@@ -17,3 +17,7 @@ This is the how to contribute section.
 ## Deployment
 
 This is the deployment section
+
+### Copyright
+
+2020 Git Copyright
