@@ -8,7 +8,7 @@ This is the Introduction section
 
 ## Purpose
 
-This is the Purpose section
+the purpose of this website is ..
 
 ## How to contribute
 
