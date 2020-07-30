@@ -12,7 +12,7 @@ This is the Purpose section
 
 ## How to contribute
 
-This is the how to contribute section.
+Please fork the repo and issue pull request for review.
 
 ## Deployment
 
