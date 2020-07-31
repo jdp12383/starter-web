@@ -20,4 +20,4 @@ This is the deployment section
 
 ### Copyright
 
-2020 Git Copyright
+2020 Git Copyright. All rights reserved.
